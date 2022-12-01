@@ -1,4 +1,4 @@
--- insert troll face, memcorruptv2
+-- insert troll fac
 local library = { 
 	flags = { }, 
 	items = { } 
